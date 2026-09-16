@@ -4,7 +4,6 @@
 
 This project aims to develop a machine learning model that accurately predicts housing prices using the Boston Housing dataset. By analyzing various features of houses, such as crime rate, number of rooms, and accessibility to highways, the model provides valuable insights for potential buyers or sellers in estimating housing prices. The project utilizes the powerful CatBoostRegressor algorithm for optimal performance and incorporates techniques like data preprocessing, exploratory data analysis, and model training. The trained model can be used as a tool to make informed decisions in the real estate market. 
 
-![logo](https://github.com/KalyanMurapaka45/House-Price-Prediction/blob/main/Output/Screenshot%202023-05-16%20041823.png)
 
 ## Built With
 
@@ -19,10 +18,6 @@ This project aims to develop a machine learning model that accurately predicts h
  # Getting Started
 This is make you understand how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-1. Clone the repo
-
-```
-git clone https://github.com/KalyanMurapaka45/Spam-Email-Detection.git
 ```
 
 2. Install the required libraries
